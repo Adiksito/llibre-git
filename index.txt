@@ -1,1 +1,1 @@
--e "Cap¡tol 1: Introducci¢ a Git\nCap¡tol 2: Flux de treball b…sic\nCap¡tol 3: Repositoris remots" 
+"Capitol 1: Introduccio a Git\nCapitol2: Flux de treball basic\nCapitol3: Gesti¢ de branques\nCapitol 4: Repositoris remots" 
