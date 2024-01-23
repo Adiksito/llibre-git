@@ -1,1 +1,2 @@
 "Capitol 1: Introduccio a Git\nCapitol2: Flux de treball basic\nCapitol3: Gesti¢ de branques\nCapitol 4: Repositoris remots" 
+"Cap¡tol 5: conceptes avan‡ats" 
