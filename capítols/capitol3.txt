@@ -1,0 +1,1 @@
+"Git permet la creaci¢ de branques que permeten tenir distintes versions del mateix projecte de manera simult…nies en elles." 
